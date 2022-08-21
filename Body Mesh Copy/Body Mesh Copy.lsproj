@@ -3,7 +3,7 @@
     "document_id": "T6jYWUZM6UjHNNz1Wmj-",
     "original_document_id": "quEd4ljlqnyVvHpavAJK",
     "version": "29",
-    "lastChanged": "1661114000454",
+    "lastChanged": "1661116199404",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -111,7 +111,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1653409244331761:233508"
+            "active_graph_asset": "1659647705468650:252449"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -316,29 +316,29 @@
                     },
                     {
                         "k": "971",
-                        "v": "697f53cd790d948c905a2f407c8113db"
+                        "v": "5995c908866dcbb9b1eb8bf52992bac2"
                     },
                     {
                         "k": "972",
-                        "v": "dd872a6957e9dacd62017a2e5e5c342d"
+                        "v": "9b3edfade33fb80acf595f1e3d34e4f0"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-08-21T22:30:24",
+                        "lastModified": "2022-08-21T23:09:46",
                         "name": "Public",
-                        "hash": "deaa843e6f5c29e46f9d0fb40b99d2bd",
+                        "hash": "b02bfa7a82510546576e5f26be0643e5",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-08-21T22:29:56",
+                                "lastModified": "2022-08-21T22:59:27",
                                 "name": "Other",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-08-21T22:29:56",
+                                        "lastModified": "2022-08-21T22:59:27",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -347,28 +347,28 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-08-21T22:29:52",
+                                "lastModified": "2022-08-21T23:09:01",
                                 "name": "Body Clone.lsmat",
-                                "hash": "697f53cd790d948c905a2f407c8113db",
+                                "hash": "5995c908866dcbb9b1eb8bf52992bac2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-08-04T23:16:01",
+                                "lastModified": "2022-08-21T23:09:01",
                                 "name": "Occluder.lsmat",
-                                "hash": "dd872a6957e9dacd62017a2e5e5c342d",
+                                "hash": "9b3edfade33fb80acf595f1e3d34e4f0",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-08-21T22:33:05",
+                                "lastModified": "2022-08-21T22:59:27",
                                 "name": "Body Copy.js",
                                 "hash": "78362383f51d827938920ed1e9663795",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-08-04T23:16:01",
+                                "lastModified": "2022-08-21T22:59:27",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
