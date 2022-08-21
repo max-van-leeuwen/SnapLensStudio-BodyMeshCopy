@@ -1,0 +1,585 @@
+{
+    "lens_id": "",
+    "document_id": "T6jYWUZM6UjHNNz1Wmj-",
+    "original_document_id": "quEd4ljlqnyVvHpavAJK",
+    "version": "29",
+    "lastChanged": "1661114000454",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "19",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "25",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Body Clone"
+                    ],
+                    [
+                        "Body Copy"
+                    ],
+                    [
+                        "Body Tracking Asset"
+                    ],
+                    [
+                        "Full Body Mesh"
+                    ],
+                    [
+                        "Occluder"
+                    ],
+                    [
+                        "Other"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Body Mesh Copy",
+            "applicability": "2",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Dance.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Dance.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": [
+                "1653407279407619:38667"
+            ]
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1653409244331761:233508"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1653407279389400:38636",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1653407279505218:38761",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1653407348823728:48572",
+                    "name": "Files\/File10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1653409244331761:233508",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1659647705468650:252449",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1653407279407619:38667",
+                "1": "1653407279408453:38678",
+                "2": "1653407353886219:49387",
+                "3": "1653408309931561:147780"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "10",
+                    "v": "Files\/File10.js"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "969",
+                        "v": "Body Copy.js"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Body Clone.lsmat"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Occluder.lsmat"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Other"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "3369b606e2359a95b6f602230f6a2d25"
+                    },
+                    {
+                        "k": "969",
+                        "v": "78362383f51d827938920ed1e9663795"
+                    },
+                    {
+                        "k": "970",
+                        "v": "669f40287ad339606082788ef8ddc3ed"
+                    },
+                    {
+                        "k": "971",
+                        "v": "697f53cd790d948c905a2f407c8113db"
+                    },
+                    {
+                        "k": "972",
+                        "v": "dd872a6957e9dacd62017a2e5e5c342d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-08-21T22:30:24",
+                        "name": "Public",
+                        "hash": "deaa843e6f5c29e46f9d0fb40b99d2bd",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-08-21T22:29:56",
+                                "name": "Other",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-21T22:29:56",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-08-21T22:29:52",
+                                "name": "Body Clone.lsmat",
+                                "hash": "697f53cd790d948c905a2f407c8113db",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-08-04T23:16:01",
+                                "name": "Occluder.lsmat",
+                                "hash": "dd872a6957e9dacd62017a2e5e5c342d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-08-21T22:33:05",
+                                "name": "Body Copy.js",
+                                "hash": "78362383f51d827938920ed1e9663795",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-08-04T23:16:01",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Body Tracking Asset",
+                        "type": "24",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653407279389400:38636",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Full Body Mesh",
+                        "type": "3",
+                        "subtype": "4",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653407279505218:38761",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Body Copy",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653407348823728:48572",
+                        "fileId": "10",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "\/Users\/gsmac31\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioBVzmGAEKOiAn\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Body Clone",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653409244331761:233508",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "971",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Occluder",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1659647705468650:252449",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "972",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Other",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Physics Root World Settings",
+                                "type": "36",
+                                "subtype": "1",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "8675309:9035768",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1653407348823728:48572",
+                        "path_list": [
+                            "Body Copy"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.19.0"
+}
